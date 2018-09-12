@@ -1,5 +1,5 @@
 # jupyterlab_xkcdextension
-<<<<<<< HEAD
+Following this tutorial: https://jupyterlab.readthedocs.io/en/stable/developer/xkcd_extension_tutorial.html
 
 Show a random xkcd.com comic in a JupyterLab panel
 
@@ -30,7 +30,3 @@ To rebuild the package and the JupyterLab app:
 npm run build
 jupyter lab build
 ```
-
-=======
-Following this tutorial: https://jupyterlab.readthedocs.io/en/stable/developer/xkcd_extension_tutorial.html
->>>>>>> 23eaa697b7c7e58fc85a31b869dc12d1ebd1cfe2
